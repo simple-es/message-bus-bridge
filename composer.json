@@ -3,7 +3,7 @@
   "description": "A bridge for using SimpleBus MessageBus",
   "type": "library",
   "keywords": ["simple", "simplees", "simplebus", "message bus", "command bus", "event bus"],
-  "homepage": "https://github.com/simple-es/message-bus-bridge",
+  "homepage": "https://simple-es.github.io",
   "license": "MIT",
   "authors": [
     {

@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "52cc23a8806ad21bfd761c5114103cbf",
+    "hash": "e0fa583cc13b1701c0bb63ff0f2514e0",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -148,12 +148,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simple-es/event-sourcing.git",
-                "reference": "ea1ea139160554c5f4131a9924ef8a8cf42b79b7"
+                "reference": "0b55cdaf32a7b3db72c831782297fc64cc0972fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simple-es/event-sourcing/zipball/ea1ea139160554c5f4131a9924ef8a8cf42b79b7",
-                "reference": "ea1ea139160554c5f4131a9924ef8a8cf42b79b7",
+                "url": "https://api.github.com/repos/simple-es/event-sourcing/zipball/0b55cdaf32a7b3db72c831782297fc64cc0972fa",
+                "reference": "0b55cdaf32a7b3db72c831782297fc64cc0972fa",
                 "shasum": ""
             },
             "require": {
@@ -185,7 +185,7 @@
                 }
             ],
             "description": "A \"simple\" Event Sourcing library for PHP",
-            "homepage": "https://github.com/simple-es/event-sourcing",
+            "homepage": "https://simple-es.github.io",
             "keywords": [
                 "Simple",
                 "event",
@@ -194,7 +194,7 @@
                 "simplees",
                 "sourcing"
             ],
-            "time": "2015-04-09 20:07:05"
+            "time": "2015-04-09 22:18:06"
         }
     ],
     "packages-dev": [
