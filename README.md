@@ -1,6 +1,8 @@
 # SimpleES \ MessageBusBridge
 
 [![Build Status](https://travis-ci.org/simple-es/message-bus-bridge.svg?branch=master)](https://travis-ci.org/simple-es/message-bus-bridge)
+[![Code Coverage](https://scrutinizer-ci.com/g/simple-es/message-bus-bridge/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/simple-es/message-bus-bridge/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/simple-es/message-bus-bridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/simple-es/message-bus-bridge/?branch=master)
 
 A bridge for using [SimpleBus \ MessageBus][messagebus] with [SimpleES \ EventSourcing][eventsourcing].
 
